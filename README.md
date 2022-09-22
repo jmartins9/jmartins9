@@ -21,7 +21,6 @@ I´m a software enginner student at Universidade do Minho.
 ---
 
 <div align = "left">
-<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmartins9&show_icons=true&theme=chartreuse-dark&count_private=true"/>
 <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=jmartins9&show_icons=true&show_icons=true&theme=chartreuse-dark&count_private=true" />
 </div>
 
