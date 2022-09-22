@@ -1,4 +1,4 @@
-<img src = "SUV4.gif" width = "325px" align = "right">
+<img src = "SUV4.gif" width = "300px" align = "right">
 
 ## Hi, i'm João Martins and this is my github profile!
 
