@@ -1,6 +1,6 @@
 <img src = "SUV4.gif" width = "300px" align = "right">
 
-## Hi, i'm João Martins and this is my github profile!
+# Hi, i'm João Martins and this is my github profile!
 
 <div id="badges">
   <a href = "https://www.linkedin.com/in/jmartins09">
@@ -9,7 +9,6 @@
 </div>
 
 I´m a software enginner student at Universidade do Minho.
-
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -21,11 +20,9 @@ I´m a software enginner student at Universidade do Minho.
 
 ---
 
-
-
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmartins9&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=jmartins9&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmartins9&show_icons=true&theme=bear&count_private=true"/>
+<img height = "180em" src="https://github-readme-stats.vercel.app/api?username=jmartins9&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
 
 </div>
