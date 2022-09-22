@@ -1,3 +1,5 @@
+<img src = "SUV4.gif" width = "325px" align = "right">
+
 ## Hi, i'm João Martins!
 <div align="center">
   <a href="https://github.com/jmartins9">
