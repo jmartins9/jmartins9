@@ -1,6 +1,14 @@
 <img src = "SUV4.gif" width = "325px" align = "right">
 
-## Hi, i'm João Martins!
+## Hi, i'm João Martins and this is my github profile!
+
+<div id="badges">
+  <a href = "https://github.com/jmartins9">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+
 <div align="center">
   <a href="https://github.com/jmartins9">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmartins9&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
