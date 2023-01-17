@@ -21,13 +21,12 @@ I´m a software enginner student at Universidade do Minho.
 ---
 
 <div align = "left">
- 
- 
   <a ref="https://github.com/anuraghazra/github-readme-stats">
     <img height = "220em" src="https://github-readme-stats.vercel.app/api?username=jmartins9&show_icons=true&theme=dark#gh-dark-mode-only"
   </a>
-  
-  <img height = "220em" src="https://github-readme-stats.vercel.app/api?username=jmartins9&show_icons=true&show_icons=true&theme=chartreuse-dark&count_private=true"/>
+    <a ref="https://github.com/anuraghazra/convoychat">
+    <img height = "220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmartins9&layout=compact"
+  </a>
 </div>
 
 </div>
