@@ -1,5 +1,3 @@
-<img src = "SUV4.gif" width = "300px" align = "right">
-
 # Hi, i'm João Martins and this is my github profile!
 
 <div id="badges">
@@ -18,16 +16,12 @@ I´m a software enginner student at Universidade do Minho.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
 </div>
 
----
+--- 
+
 
 <div align = "left">
-  <a ref="https://github.com/anuraghazra/github-readme-stats">
-    <img height = "220em" src="https://github-readme-stats.vercel.app/api?username=jmartins9&show_icons=true&theme=dark#gh-dark-mode-only"
-  </a>
-    <a ref="https://github.com/anuraghazra/convoychat">
-    <img height = "220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmartins9&layout=compact"
-  </a>
+  <img height = "220em" src="https://github-readme-stats.vercel.app/api?username=jmartins9&show_icons=true&theme=dark#gh-dark-mode-only"/>
+  <img height = "220em" src="https://github-readme-stats.vercel.app/api?username=jmartins9&show_icons=true&show_icons=true&theme=chartreuse-dark&count_private=true"/>
 </div>
 
-</div>
 
