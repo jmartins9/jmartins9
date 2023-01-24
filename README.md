@@ -21,8 +21,8 @@ I´m a software enginner student at Universidade do Minho.
 
 
 <div align = "left">
-  <img height = "220em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jmartins9&show_icons=true&theme=great-gatsby"/>
-  <img height = "220em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jmartins9&layout=compact&show_icons=true&theme=great-gatsby"/>
+  <img height = "200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jmartins9&show_icons=true&theme=great-gatsby"/>
+  <img height = "200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jmartins9&langs_count=10&show_icons=true&theme=great-gatsby"/>
 </div>
 
 
