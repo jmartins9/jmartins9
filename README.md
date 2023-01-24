@@ -21,7 +21,9 @@ I´m a software enginner student at Universidade do Minho.
 </div>
 
 <br />
+
 ---
+
 <br />
 
 
