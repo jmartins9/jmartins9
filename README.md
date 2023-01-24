@@ -6,6 +6,8 @@
   </a>
 </div>
 
+<br />
+
 **About me**
 
 I´m a software enginner student at Universidade do Minho.
@@ -21,8 +23,6 @@ I´m a software enginner student at Universidade do Minho.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
-
-<br />
 
 ---
 
