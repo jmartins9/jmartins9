@@ -10,7 +10,7 @@
 
 **About me**
 
-My name is João and i´m a software enginner student at Universidade do Minho.
+I´m a software enginner student at Universidade do Minho.
 
 <br />
 
