@@ -17,7 +17,7 @@ I´m a software enginner student at Universidade do Minho.
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
----
+<br />
 
 <div align = "center">
   <img height = "150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jmartins9&show_icons=true&theme=great-gatsby"/>
