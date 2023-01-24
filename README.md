@@ -1,4 +1,4 @@
-# Hi, i'm João Martins and this is my github profile!
+# Hi, i'm João Martins
 
 <div id="badges">
   <a href = "https://www.linkedin.com/in/jmartins09">
@@ -6,7 +6,10 @@
   </a>
 </div>
 
+**About me**
+
 I´m a software enginner student at Universidade do Minho.
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
