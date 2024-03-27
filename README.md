@@ -30,8 +30,8 @@ I´m a software enginner student at Universidade do Minho.
 
 
 <div align = "center">
-  <img height = "150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jmartins9&show_icons=true&theme=great-gatsby"/>
-  <img height = "150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jmartins9&show_icons=true&theme=great-gatsby"/>
+  <img vertical-align="baseline" src="https://github-readme-stats-nu-eight-50.vercel.app/api/top-langs/?username=jmartins9&hide_progress=true&langs_count=6&theme=dark"  alt=""/>
+  <img vertical-align="baseline" src="https://github-readme-stats-nu-eight-50.vercel.app/api?username=jmartins9&show_icons=true&theme=dark&hide_title=true&rank_icon=github&hide_rank=true&hide=contribs"  alt=""/>
 </div>
 
 
