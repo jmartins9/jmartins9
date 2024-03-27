@@ -28,6 +28,9 @@ I´m a software enginner student at Universidade do Minho.
 
 <br />
 
+<div align = "center">
+  <img src="https://streak-stats.demolab.com?user=porqueeuprogramo&theme=dark" alt="GitHub Streak" />
+</div>
 
 <div align = "center">
   <img vertical-align="baseline" src="https://github-readme-stats-nu-eight-50.vercel.app/api/top-langs/?username=jmartins9&hide_progress=true&langs_count=6&theme=dark"  alt=""/>
