@@ -29,7 +29,7 @@ I´m a software enginner student at Universidade do Minho.
 <br />
 
 <div align = "center">
-  <img src="https://streak-stats.demolab.com?user=porqueeuprogramo&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=jmartins9&theme=dark" alt="GitHub Streak" />
 </div>
 
 <div align = "center">
