@@ -1,4 +1,4 @@
-# Hi, i'm João Martins
+# Hi, I'm João Martins
 
 <div id="badges">
   <a href = "https://www.linkedin.com/in/jmartins09">
