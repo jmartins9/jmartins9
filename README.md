@@ -1,4 +1,4 @@
-# 👋 Hi, I'm João Martins [![LinkedIn](resources/linkedin.png)](https://www.linkedin.com/in/jmartins09)
+# 👋 Hi, I'm João Martins 
 
 ## 🧠 About me
 
@@ -35,9 +35,16 @@ At Critical TechWorks, I am currently working with **Kafka** for event-driven ar
 
 ---
 
+## 🔗 Links
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/jmartins09)
+
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jmartins9&theme=dark)  
 ![GitHub Stats](https://github-readme-stats-nu-eight-50.vercel.app/api?username=jmartins9&show_icons=true&theme=dark&hide_title=true&rank_icon=github&hide_rank=true&hide=contribs)
 
 ---
+
