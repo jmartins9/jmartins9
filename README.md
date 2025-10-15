@@ -28,12 +28,8 @@ I am always on the lookout for opportunities to expand my skills and make meanin
 <br />
 
 <div align = "center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jmartins9&theme=dark" alt="GitHub Streak" /></a>
-</div>
-
-<div align = "center">
-  <img vertical-align="baseline" src="https://github-readme-stats-nu-eight-50.vercel.app/api/top-langs/?username=jmartins9&hide_progress=true&langs_count=6&theme=dark"  alt=""/>
-  <img vertical-align="baseline" src="https://github-readme-stats-nu-eight-50.vercel.app/api?username=jmartins9&show_icons=true&theme=dark&hide_title=true&rank_icon=github&hide_rank=true&hide=contribs"  alt=""/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jmartins9&theme=dark" alt="GitHub Streak" />
+  <img vertical-align="baseline" src="https://github-readme-stats-nu-eight-50.vercel.app/api?username=jmartins9&show_icons=true&theme=dark&hide_title=true&rank_icon=github&hide_rank=true&hide=contribs"  alt="GitHub Info"/>
 </div>
 
 
