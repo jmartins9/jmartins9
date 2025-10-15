@@ -28,7 +28,7 @@ I am always on the lookout for opportunities to expand my skills and make meanin
 <br />
 
 <div align = "center">
-  <img src="https://streak-stats.demolab.com?user=jmartins9&theme=dark" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jmartins9&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 <div align = "center">
