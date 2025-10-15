@@ -1,6 +1,11 @@
 # 👋 Hi, I'm João Martins 
 
-## 🧠 About me
+- [About me](#about-me)
+- [Experience](#experience)
+- [Projects](#interests)
+- [Contact](#links)
+
+## About me
 
 I was born in Ponte de Lima, Portugal, and have always been passionate about technology and innovation.
 
@@ -10,7 +15,7 @@ As a **backend engineer**, I enjoy designing robust and scalable systems, explor
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Checkmarx – Internship
 **Role:** Software Engineering Intern  
@@ -26,7 +31,7 @@ At Critical TechWorks, I am currently working with **Kafka** for event-driven ar
 
 ---
 
-## 🚀 Interests
+## Interests
 
 - Backend architecture and system design  
 - Distributed systems and event-driven architectures  
@@ -35,13 +40,13 @@ At Critical TechWorks, I am currently working with **Kafka** for event-driven ar
 
 ---
 
-## 🔗 Links
+## Links
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/jmartins09)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jmartins9&theme=dark)  
 ![GitHub Stats](https://github-readme-stats-nu-eight-50.vercel.app/api?username=jmartins9&show_icons=true&theme=dark&hide_title=true&rank_icon=github&hide_rank=true&hide=contribs)
